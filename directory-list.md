@@ -1,8 +1,6 @@
 total 1136
 drwxr-xr-x+  67 jmccullough  staff    2278 Aug 28 10:47 .
 drwxr-xr-x    5 root         admin     170 Apr  1 14:40 ..
--rw-------    1 jmccullough  staff       3 Apr  1 14:40 .CFUserTextEncoding
--rw-r--r--@   1 jmccullough  staff   24580 Aug 27 09:59 .DS_Store
 drwx------    4 jmccullough  staff     136 Aug 28 10:17 .Trash
 drwxr-xr-x    4 jmccullough  staff     136 May  1 11:35 .adobe
 drwxr-xr-x    4 jmccullough  staff     136 Aug  8 11:41 .ascii.io
@@ -12,17 +10,13 @@ drwxr-xr-x@   8 jmccullough  staff     272 Apr 23 14:58 .atom
 drwxr-xr-x    4 jmccullough  staff     136 Aug  5 16:27 .bower
 drwxr-xr-x    3 jmccullough  staff     102 Jul 22 14:21 .boxen
 drwxr-xr-x    3 jmccullough  staff     102 Aug  5 17:54 .cache
-drwxr-xr-x    3 jmccullough  staff     102 Aug  5 16:27 .config
+drwxr-xr-x    3 peterbell  staff     102 Aug  5 16:27 .config
 drwx------    3 jmccullough  staff     102 Jun  4 20:07 .cups
 drwxr-xr-x   34 jmccullough  staff    1156 May  1 15:36 .dotfiles
 drwx------   14 jmccullough  staff     476 Aug 28 08:33 .dropbox
 drwxr-xr-x    4 jmccullough  staff     136 Apr  4 15:20 .gem
 -rw-r--r--    1 jmccullough  staff     137 Apr  1 15:09 .gemrc
 -rw-r--r--    1 jmccullough  staff     103 Aug 28 09:17 .gitconfig
--rw-r--r--    1 jmccullough  staff     557 Aug  6 18:46 .gitconfig-jordan
--rw-r--r--    1 jmccullough  staff     251 Aug 27 11:25 .gitconfig-jordan-test
--rw-r--r--    1 jmccullough  staff     103 Jul 10 11:13 .gitconfig-student
--rw-r--r--    1 jmccullough  staff     261 May 30 01:34 .gitconfig-teacher
 -rw-r--r--    1 jmccullough  staff      56 Aug  5 13:49 .gitconfig-temp
 drwx------    4 jmccullough  staff     136 Aug 21 23:12 .github
 -rw-r--r--    1 jmccullough  staff      28 May 21 17:16 .gitignore
